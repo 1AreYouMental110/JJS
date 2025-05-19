@@ -1,0 +1,13 @@
+// Store in a 7-bit Chamber
+
+local F = {}
+F[1] = 12
+F[2] = 24
+F[3] = 36
+
+// Insert Model
+Dattebayo.DLL__Insert()
+
+Dattebayo.DLL()
+
+// It should output 12,24,36,48,60
